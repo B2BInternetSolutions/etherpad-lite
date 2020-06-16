@@ -362,7 +362,7 @@ exports.importMaxFileSize = 50 * 1024 * 1024;
  * This setting is useful for when you use a plugin for authentication so you
  * can already trust each user.
  */
-exports.allowAnyoneToImport = false,
+exports.allowAnyoneToImport = true,
 
 
 // checks if abiword is avaiable
